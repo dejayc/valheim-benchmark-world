@@ -7,7 +7,7 @@ A world file to benchmark frames per second (FPS) for the PC survival game Valhe
 [Valheim](https://www.valheimgame.com/), the PC survival game based on Norse mythology, can be intensive to run if your world contains heavy terrain modifications or building structures.  Since the game presently lacks any good or consistent way to benchmark frames per second (FPS) performance for such worlds, this project serves as a rudimentary world file containing building structures of increasing design complexity by which frames per second can be measured and compared.
 
 ## How to Install
-Copy the `Benchmark.db` and `Benchmark.fwl` world files from this repository into your Valheim `worlds` directory, usually located in Windows user directory `C:\Users\<YOUR_USER_NAME_HERE>\AppData\LocalLow\IronGate\Valheim\worlds`.  You can use the directory alias `%UserProfile` in your path address if you prefer: `%UserProfile%\AppData\LocalLow\IronGate\Valheim\worlds`
+Copy the `Benchmark.db` ([download](https://github.com/dejayc/valheim-benchmark-world/raw/main/Benchmark.db)) and `Benchmark.fwl` ([download](https://github.com/dejayc/valheim-benchmark-world/raw/main/Benchmark.fwl)) world files from this repository into your Valheim `worlds` directory, usually located in Windows user directory `C:\Users\<YOUR_USER_NAME_HERE>\AppData\LocalLow\IronGate\Valheim\worlds`.  You can use the directory alias `%UserProfile` in your path address if you prefer: `%UserProfile%\AppData\LocalLow\IronGate\Valheim\worlds`
 
 ## How to Use
 1. Install the benchmark world files, per the section above
